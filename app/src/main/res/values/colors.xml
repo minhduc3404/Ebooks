@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#353a41</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#f2f2f2</color>
+    <color name="light_gray">#fafafa</color>
+    <color name="orange_light">#fb6000</color>
+    <color name="red">#ffff0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="press_button">#33FFFFFF</color>
+    <color name="colorPrimaryTransparent">#ae424242</color>
+    <color name="bg_title_book">#ab000000</color>
+</resources>
